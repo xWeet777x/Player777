@@ -1,0 +1,14 @@
+
+#content .feed_item_thumbnail {
+	width: 250px;
+	height: 250px;
+	
+	margin: 5px;
+	overflow: hidden;
+	border: #000000 2px;
+}
+#content .feed_item_clear {
+	width: 0:height:0;
+	margin: 0;
+	padding: 0;
+	clear: both;

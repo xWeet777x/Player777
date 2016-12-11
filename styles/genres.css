@@ -1,0 +1,87 @@
+.genre.acustico .gArt {background: url(../images/genres/acustico.jpg) center center;background-size: cover;}
+.genre.acustico .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.adoracao .gArt {background: url(../images/genres/adoracao.jpg) center center;background-size: cover;}
+.genre.adoracao .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.alternativo .gArt {background: url(../images/genres/alternativo.jpg) center center;background-size: cover;}
+.genre.alternativo .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.acustico .gArt {background: url(../images/genres/acustico.jpg) center center;background-size: cover;}
+.genre.acustico .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.deathcore .gArt {background: url(../images/genres/deathcore.jpg) center center;background-size: cover;}
+.genre.deathcore .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.deathmetal .gArt {background: url(../images/genres/deathmetal.jpg) center center;background-size: cover;}
+.genre.deathmetal .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.eletronica .gArt {background: url(../images/genres/eletronica.jpg) center center;background-size: cover;}
+.genre.eletronica .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.grindcore .gArt {background: url(../images/genres/grindcore.jpg) center center;background-size: cover;}
+.genre.grindcore .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.grunge .gArt {background: url(../images/genres/grunge.jpg) center center;background-size: cover;}
+.genre.grunge .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.hardcore .gArt {background: url(../images/genres/hardcore.jpg) center center;background-size: cover;}
+.genre.hardcore .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.heavymetal .gArt {background: url(../images/genres/heavymetal.jpg) center center;background-size: cover;}
+.genre.heavymetal .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.indie .gArt {background: url(../images/genres/indie.jpg) center center;background-size: cover;}
+.genre.indie .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.metal .gArt {background: url(../images/genres/metal.jpg) center center;background-size: cover;}
+.genre.metal .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.metalcore .gArt {background: url(../images/genres/metalcore.jpg) center center;background-size: cover;}
+.genre.metalcore .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.newmetal .gArt {background: url(../images/genres/newmetal.jpg) center center;background-size: cover;}
+.genre.newmetal .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.posthc .gArt {background: url(../images/genres/posthc.jpg) center center;background-size: cover;}
+.genre.posthc .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.punk .gArt {background: url(../images/genres/punk.jpg) center center;background-size: cover;}
+.genre.punk .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.rap .gArt {background: url(../images/genres/rap.jpg) center center;background-size: cover;}
+.genre.rap .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.rapcore .gArt {background: url(../images/genres/rapcore.jpg) center center;background-size: cover;}
+.genre.rapcore .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.reggae .gArt {background: url(../images/genres/reggae.jpg) center center;background-size: cover;}
+.genre.reggae .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.screamo .gArt {background: url(../images/genres/screamo.jpg) center center;background-size: cover;}
+.genre.screamo .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.thrashmetal .gArt {background: url(../images/genres/thrashmetal.jpg) center center;background-size: cover;}
+.genre.thrashmetal .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+.genre.worship .gArt {background: url(../images/genres/worship.jpeg) center center;background-size:}
+.genre.worship .art {background: #000000 linear-gradient(180deg, #000000, #888888);background-size: cover;}
+
+
+.genre .gArt {-webkit-filter: grayscale(100%);-moz-filter: grayscale(100%);-ms-filter: grayscale(100%);-o-filter: grayscale(100%);filter: grayscale(100%)}
+.genre .gArt:hover {-webkit-filter: contrast(150%);
+   -moz-filter: contrast(150%);
+    -ms-filter: contrast(150%);
+     -o-filter: contrast(150%);
+filter: contrast(150%);}
+
+
+
+.genre.workout .gArt {
+    background: url(../images/genres/workout.png) no-repeat center center;
+    background-size: contain;
+}
+
+.genre.workout .art {
+    background: #73c359 linear-gradient(180deg, #73c359, #1c853d)
+}
